@@ -1,6 +1,9 @@
 # Local artifacts produced while preparing the embedded audio clip.
 .tmp/
 
+# Local audio sources. The cue ships embedded in client.js, not as a file.
+assets/
+
 # Dependency and tooling output.
 node_modules/
 *.log
