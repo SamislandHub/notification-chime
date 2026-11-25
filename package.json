@@ -29,7 +29,9 @@
     "cordis.patch.yml",
     "locale/*.json",
     "icon.svg",
+    "assets",
     "README.md",
+    "README.en.md",
     "LICENSE"
   ],
   "dsh": {
