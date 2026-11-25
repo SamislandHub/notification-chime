@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Notification chime",
+    "description": "Plays a bundled cue (about 1.2 seconds, loudness-normalized) when the agent asks for your approval or an answer. The audio ships inside the plugin; no external file or network access is needed. Browsers may require one click or keypress in the page first before audio can play."
+  }
+}

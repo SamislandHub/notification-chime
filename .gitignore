@@ -1,0 +1,12 @@
+# Local artifacts produced while preparing the embedded audio clip.
+.tmp/
+
+# Dependency and tooling output.
+node_modules/
+*.log
+
+# Editor and OS noise.
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
